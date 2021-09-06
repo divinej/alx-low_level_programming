@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * print all possible combinations of two two -digits nu,bers
- * Retutn: 0
+ * print all possible combinations of two two -digits numbers
+ * Return: 0
  */
 int main(void)
 {
