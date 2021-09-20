@@ -4,7 +4,7 @@
  * _strcpy - copies the string pointed to by src, including the '\0'
  * to the buffer pointed to by dest
  * *@dest: pointer to the variable which stores the copied string
- * *@stc: pointer to the string to be copied
+ * *@src: pointer to the string to be copied
  * Return: the pointe to the dest
  */
 char *_strcpy(char *dest, char *src)
